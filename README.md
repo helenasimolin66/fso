@@ -7,5 +7,7 @@
   * jotain
 
 
-## Yhteystiedot: Helena Simolin, simolin.helena@gmail.com
+### Yhteystiedot
+### Helena Simolin
+### simolin.helena@gmail.com
 
